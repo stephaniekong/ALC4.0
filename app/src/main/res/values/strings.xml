@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wlc_msg">welcome to ALC4.0</string>
+    <string name="aboutalc">About ALC</string>
+    <string name="myprofile">MY PROFILE</string>
+    <string name="profile_name">Ekong Nseobong</string>
+    <string name="track">Track:Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="emai">Email: stephanie.ekong15@gmail.com</string>
+    <string name="phnoenumber">Phone Number: 08167378847</string>
+    <string name="slackusername">Slack Username: @Ekong Nseobong</string>
+</resources>
